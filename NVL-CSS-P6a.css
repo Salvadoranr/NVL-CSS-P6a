@@ -1,0 +1,17 @@
+span{
+    color: white;
+}
+
+.primero td:first-child{
+        text-align: center;
+}
+tbody{
+    background: linear-gradient(180deg,white,black)
+}
+.primero td:nth-child(2){
+    background-color: white
+}
+#titulo{
+    text-align: center;
+    
+}
